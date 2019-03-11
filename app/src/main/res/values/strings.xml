@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentProject</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_main">Hello blank fragment main</string>
+    <string name="hello_blank_fragment_secondary">Hello blank fragment secondary</string>
+    <string name="menu_fragment_main">Principal</string>
+    <string name="menu_separador">|</string>
+    <string name="menu_fragment_secundary">Segundo</string>
+</resources>
